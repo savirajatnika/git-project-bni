@@ -11,3 +11,6 @@
 - dua 
 - orang 
 - cobain 
+
+*owahei a wiu* 
+BULUBULUBUL
