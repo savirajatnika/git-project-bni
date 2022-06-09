@@ -14,3 +14,5 @@
 
 *owahei a wiu* 
 BULUBULUBUL
+
+menambahkan rasa sayang
