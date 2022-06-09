@@ -11,6 +11,7 @@
 - chrisandoryan
 - budijuwono
 - robinvangogh
+- spongebobsquarepants
 
 ## Pending Tasks
 1. Create function for authentication
